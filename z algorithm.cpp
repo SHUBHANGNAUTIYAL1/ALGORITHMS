@@ -1,3 +1,4 @@
+// pattern searching algorithm
 #include<bits/stdc++.h>
 using namespace std;
 void calcarray(string s,int ls[],int c)
